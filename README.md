@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ℹ️[**LinkedIn**](www.linkedin.com/in/ratuaulianafasa)
 - ✉︎ [**Gmail**](ratunafasa151106@gmail.com)
 
-![Technology](Techno.gif)
+<img src="Techno.gif" alt="Technology" width="100%" />
