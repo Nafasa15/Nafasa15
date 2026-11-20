@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 📫 How to reach me:
 - ℹ️[**LinkedIn**](www.linkedin.com/in/ratuaulianafasa)
 - ✉︎ [**Gmail**](ratunafasa151106@gmail.com)
-
-<img src="Techno.gif" alt="Technology" width="100%" />
