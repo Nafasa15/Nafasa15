@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I'm Nafasa 👋
+
+![Ratu Nafasa](Background%20Foto%20Diri.jpg)
 
 <!--
 **Nafasa15/Nafasa15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->✨Mahasiswi Sistem Informasi yang gemar mengembangkan aplikasi web dan mobile serta solusi berbasis data, didukung pengalaman dalam presentasi publik, pelatihan organisasi, dan pengelolaan media sosial✨
+
+🌱 **I’m currently learning:** deeper mobile and web development workflows along with database and data analysis tools.
+
+📫 How to reach me:
+- ℹ️[**LinkedIn**](www.linkedin.com/in/ratuaulianafasa)
+- ✉︎ [**Gmail**](ratunafasa151106@gmail.com)
+
+![Technology](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBqdjY0dzhoamUybDZocng1eHhwY2Z1N2c2b3g0a25ydjFubjdnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy.gif)
